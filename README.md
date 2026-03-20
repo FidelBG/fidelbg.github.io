@@ -1,59 +1,52 @@
-# fidelbg.github.io
+# Privacy Policy & Terms of Service
 
-# Política de Privacidad y Términos de Uso
+**Last Updated:** March 20, 2026
 
-**Última actualización:** 20 de marzo de 2026
-
-Esta política detalla cómo nuestra aplicación gestiona sus datos, centrándose en la transparencia respecto al uso de Inteligencia Artificial y la gestión de suscripciones.
+Welcome to **[APP_NAME]**. By using our application, you agree to the following terms and conditions, as well as our privacy practices.
 
 ---
 
-## 1. Procesamiento de Imágenes por IA (Gemini & Nano Banana)
-Nuestra aplicación utiliza la tecnología de **Gemini y Nano Banana 2 (Google)** para ofrecer funciones de generación y edición de imágenes.
+## 1. AI Data Processing (Gemini & Nano Banana)
+Our app utilizes **Google’s Gemini and Nano Banana 2** technology to provide image generation and editing features.
 
-* **Uso de Imágenes:** Las fotos que usted proporciona se transmiten de forma cifrada a los servicios de Google únicamente para procesar la solicitud de IA.
-* **Privacidad:** No utilizamos sus imágenes para entrenar modelos de lenguaje o generación de terceros.
-* **Retención:** No almacenamos sus fotos originales de forma permanente. Una vez generado el resultado, los archivos temporales son eliminados de nuestros sistemas.
+* **Image Processing:** When you upload or provide a photo, it is securely transmitted to Google’s processing servers solely to execute the requested AI generation.
+* **Privacy & Security:** We do not use your personal photos to train third-party AI models. Your data remains yours.
+* **Data Retention:** We do not store your original uploaded photos permanently on our servers. Temporary files are deleted immediately after the AI processing is complete and the result is delivered.
 
-> **Aviso:** El usuario es responsable de asegurar que tiene los derechos legales sobre las imágenes que carga en la aplicación.
-
----
-
-## 2. Autenticación y Suscripciones (Apple & RevenueCat)
-Para gestionar su cuenta y el acceso a funciones Premium, utilizamos servicios de terceros de confianza:
-
-* **Sign in with Apple:** Utilizamos este método para crear su perfil de forma segura. Solo accedemos a su ID de usuario único (y correo electrónico si usted lo permite).
-* **RevenueCat:** Es nuestro procesador de datos de suscripción. Nos ayuda a verificar que su compra sea válida en todos sus dispositivos.
-* **Pagos:** Todas las transacciones financieras son procesadas por **Apple Inc.** Nosotros nunca tenemos acceso a sus datos de tarjeta de crédito o información bancaria sensible.
+> **User Responsibility:** You represent and warrant that you own or have the necessary rights to any content you upload.
 
 ---
 
-## 3. Derechos del Usuario y Borrado de Datos
-Cumplimos estrictamente con las políticas de privacidad de la App Store:
-
-* **Eliminación de cuenta:** Usted puede solicitar la eliminación completa de sus datos en cualquier momento.
-* **Contacto:** Para ejercer su derecho de borrado o realizar consultas, envíe un email a: **[TU_CORREO_AQUÍ]** con el asunto "Privacidad de Datos".
+## 2. Authentication & Account (Sign in with Apple)
+We use **Sign in with Apple** to ensure a secure and private login experience. We only collect your unique User ID and, if authorized by you, your email address to manage your account and sync your subscription across devices.
 
 ---
 
-## 4. Contrato de Licencia (EULA)
-El uso de esta aplicación implica la aceptación del **Contrato de Licencia Estándar de Apple (EULA)**, el cual puede consultar aquí: [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+## 3. Subscriptions & Payments (RevenueCat)
+Our app offers Premium features through auto-renewable subscriptions:
+* **Payment Processing:** All payments are handled securely by **Apple Inc.** We use **RevenueCat** to manage subscription logic and access.
+* **Auto-Renewal:** Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
+* **Restoration:** If you switch devices or reinstall the app, you can use the **"Restore Purchases"** button within the app settings to regain access.
 
 ---
 
-## 5. Contacto de Soporte
-Si experimenta problemas técnicos o tiene dudas sobre el funcionamiento de la app:
-* **Email de soporte:** [TU_CORREO_AQUÍ]
-* **Desarrollado por:** [Tu Nombre o Empresa]
-Instrucciones de Soporte Técnico (Support Guide)
-Para cualquier incidencia técnica, consulta sobre facturación o error en la generación de imágenes, el usuario dispone de los siguientes canales:
+## 4. User-Generated Content & EULA
+In compliance with Apple’s safety guidelines, the following is strictly prohibited:
+* Generating defamatory, illegal, pornographic, or hate-speech-related content.
+* Uploading images for which you do not have legal ownership or permission.
+* We reserve the right to block users who violate these terms. This app is governed by the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
-Contacto Directo: Envíe un correo electrónico a [TU_CORREO_AQUÍ]. Atendemos consultas en un plazo de 24 a 48 horas hábiles.
+---
 
-Problemas con Suscripciones: * Nuestra app utiliza RevenueCat para sincronizar sus compras. Si su suscripción no se refleja, utilice el botón "Restaurar Compras" dentro de los ajustes de la App.
+## 5. Data Deletion & Privacy Rights
+You have the right to request the deletion of your account and associated data at any time. To exercise this right, please contact us at **[YOUR_EMAIL_HERE]** with the subject "Data Deletion Request". We will process your request within 48 hours.
 
-Si el problema persiste, adjunte su recibo de Apple al correo de soporte mencionado arriba.
+---
 
-Errores de IA (Gemini): Si la generación de imágenes falla debido a límites de cuota o errores de red, se recomienda reintentar la solicitud tras unos segundos. No se realizará ningún cargo adicional por intentos fallidos de generación.
+## 6. Technical Support
+If you experience issues with image generation or your subscription:
+* **Support Email:** [YOUR_EMAIL_HERE]
+* **Support Hours:** Monday to Friday, 9:00 AM - 5:00 PM (UTC).
 
-Reembolsos: Siguiendo la política de Apple, todos los reembolsos deben gestionarse directamente a través de reportaproblem.apple.com.
+---
+*Developed by [Your Name or Company]*
