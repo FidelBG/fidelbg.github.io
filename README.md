@@ -45,3 +45,15 @@ El uso de esta aplicación implica la aceptación del **Contrato de Licencia Est
 Si experimenta problemas técnicos o tiene dudas sobre el funcionamiento de la app:
 * **Email de soporte:** [TU_CORREO_AQUÍ]
 * **Desarrollado por:** [Tu Nombre o Empresa]
+Instrucciones de Soporte Técnico (Support Guide)
+Para cualquier incidencia técnica, consulta sobre facturación o error en la generación de imágenes, el usuario dispone de los siguientes canales:
+
+Contacto Directo: Envíe un correo electrónico a [TU_CORREO_AQUÍ]. Atendemos consultas en un plazo de 24 a 48 horas hábiles.
+
+Problemas con Suscripciones: * Nuestra app utiliza RevenueCat para sincronizar sus compras. Si su suscripción no se refleja, utilice el botón "Restaurar Compras" dentro de los ajustes de la App.
+
+Si el problema persiste, adjunte su recibo de Apple al correo de soporte mencionado arriba.
+
+Errores de IA (Gemini): Si la generación de imágenes falla debido a límites de cuota o errores de red, se recomienda reintentar la solicitud tras unos segundos. No se realizará ningún cargo adicional por intentos fallidos de generación.
+
+Reembolsos: Siguiendo la política de Apple, todos los reembolsos deben gestionarse directamente a través de reportaproblem.apple.com.
