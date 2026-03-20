@@ -2,7 +2,7 @@
 
 **Last Updated:** March 20, 2026
 
-Welcome to **[APP_NAME]**. By using our application, you agree to the following terms and conditions, as well as our privacy practices.
+Welcome to Vibefits. By using our application, you agree to the following terms and conditions, as well as our privacy practices.
 
 ---
 
@@ -49,4 +49,4 @@ If you experience issues with image generation or your subscription:
 * **Support Hours:** Monday to Friday, 9:00 AM - 5:00 PM (UTC).
 
 ---
-*Developed by [Your Name or Company]*
+*Developed by Fidel Bernal*
